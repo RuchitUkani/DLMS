@@ -1,0 +1,22 @@
+.register-container{
+    margin: auto;
+    padding: 20px;
+    max-width: 400px;
+    max-height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    text-decoration: none;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}
+
+.submit-button, .back-button{
+    width: 150px;
+    height: 40px;
+}

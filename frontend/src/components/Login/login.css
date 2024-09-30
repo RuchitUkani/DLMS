@@ -1,0 +1,16 @@
+.login-container{
+    margin: 100px auto;
+    padding: 20px;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.signup-display > a{
+    text-decoration: none;
+}
